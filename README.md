@@ -9,5 +9,6 @@ This repository contains my **Python practice exercises**, categorized into thre
 
 ## ⚙️ How to Run
 Run any `.py` file using:
-```bash
+
+python
 
